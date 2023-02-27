@@ -11,7 +11,7 @@ import SwiftUI
 struct DisplayJsonListApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ShoppingCartList()
         }
     }
 }
