@@ -1,5 +1,5 @@
 #  Displaying List of JSON Items with Sub-Lists
-This project demonstrates how to display a nested loop of items. In other words, a list of items, where
+This project demonstrates how to display a nested loop of items for an iPhone app in SwiftUI. In other words it displays a list of items, where
 each item has its own list of sub items. 
 
 It was created in response to the following CWC+ question: https://codecrew.codewithchris.com/t/display-json-in-hierarchical-list-swiftui/22378
